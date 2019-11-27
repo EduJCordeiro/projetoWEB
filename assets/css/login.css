@@ -1,0 +1,144 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+		background: #006598;
+}
+.geral{
+	width: 300px;
+	background: #fff;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	box-shadow: 0px 2px 24px 1px rgba(0,0,0,0.75);
+	border-radius: 3px;
+}
+.logo{
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	padding-top: 20px;
+}
+.control-form p{
+  margin: 0;
+  padding-left: 40px;
+  font-size: 14px;
+  font-weight: bold;
+  color:#006598;
+  text-align: left;
+  font-family: "Century Gothic" , "Arial";
+}
+.control-form{
+		margin-top: 35px;
+}
+.control-bottom{
+		margin-top: 70px;
+}
+.texto{
+	color:#006598 ;
+	font-family: "Century Gothic" , "Arial";
+	text-align: center;
+}
+.login{
+	width: 100%;
+	height: 260px;
+}
+input{
+	width: 220px;
+	height: 40px;
+	float: left;
+	margin-left:40px;
+	margin-top: 10px;
+	border:1px solid #006598 ;
+	border-radius: 3px;
+	padding-left: 5px;
+}
+.bto{
+	width: 100%;
+	height: auto;
+	float: left;
+	position: relative;
+	text-align: center;
+	margin-top: 30px;
+}
+.btn-login{
+	width: 60px;
+	height: 40px;
+	background-color: #006598 ;
+	color:#fff;
+	font-family: "Century Gothic" , "Arial";
+	border:1px solid #fff;
+	border-radius:3px;
+	cursor: pointer;
+}
+.btn-login:hover{
+	background-color: #005884;
+	color:#fff;
+	border:1px solid #006598;
+}
+.btn-senha{
+	width: 60px;
+	height: 40px;
+	background-color: #006598 ;
+	color:#fff;
+	font-family: "Century Gothic" , "Arial";
+	border:1px solid #fff;
+	border-radius:3px;
+	cursor: pointer;
+}
+.btn-senha:hover{
+	background-color: #005884;
+	color:#fff;
+	border:1px solid #006598 ;
+}
+.ess{
+	width: 100%;
+	height: 20px;
+	float:left;
+	text-align: center;
+	margin-top: 20px;
+}
+a{
+	text-decoration: none;
+	font-family:"Arial";
+	font-size: 14px;
+	color:#006598 ;
+}
+p{
+	text-decoration: none;
+	font-family:"Arial";
+	font-size: 14px;
+}
+a:hover{
+	text-decoration: none;
+	color:#122A40;
+}
+.slc{
+	width: 100%;
+	height: 20px;
+	float:left;
+	text-align: center;
+	margin-top: 30px;
+}
+.txt-senha{
+	width: 80%;
+	margin-left: 10%;
+	text-align: center;
+	margin-top: 15px;
+}
+.txt-senha p{
+	font-family:"Arial";
+	font-size: 16px;
+}
+.spam{
+	width: 80%;
+	margin-left: 10%;
+	float:left;
+	text-align: center;
+	margin-top: 30px;
+}
+.spam p{
+	font-size: 11px;
+	color: gray;
+}
