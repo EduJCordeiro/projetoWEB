@@ -3,7 +3,7 @@
 
 
 
- $conexao = mysqli_connect('localhost','root','','smartloc');// FAZ A CONEXAO COM BANCO DE DADOS
+ $conexao = mysqli_connect('localhost','root','','projetoweb');// FAZ A CONEXAO COM BANCO DE DADOS
 if (!$conexao) { // verifica conexao
     die('Could not connect: ' . mysqli_error($conexao));
 }
